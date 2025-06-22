@@ -1,0 +1,1092 @@
+{
+  "summary_statistics": {
+    "semantic_similarity": {
+      "mean": 0.8056902824253436,
+      "std": 0.09530918401951442,
+      "min": 0.15643244981765747,
+      "max": 0.9187707901000977
+    },
+    "rouge_scores": {
+      "rouge1_f1": 0.6648309257171873,
+      "rouge2_f1": 0.3527505017926665,
+      "rougeL_f1": 0.29837710503342424
+    },
+    "bert_scores": {
+      "bert_precision": 0.679192066192627,
+      "bert_recall": 0.677293598651886,
+      "bert_f1": 0.6781253814697266
+    },
+    "llm_scores": {
+      "llm_correctness_mean": 0.22715231788079468,
+      "llm_correctness_std": 0.07628265218533473,
+      "llm_correctness_min": 0.0,
+      "llm_correctness_max": 0.5,
+      "llm_coherence_mean": 0.7682119205298013,
+      "llm_coherence_std": 0.10188349464175994,
+      "llm_coherence_min": 0.3,
+      "llm_coherence_max": 0.9,
+      "llm_successful_cases": 151,
+      "llm_failed_cases": 0,
+      "llm_total_cases_processed": 151
+    }
+  },
+  "detailed_results": [
+    {
+      "semantic_similarity": 0.9187707901000977,
+      "rouge1_f": 0.8351063829787234,
+      "rouge2_f": 0.5228966986155484,
+      "rougeL_f": 0.34255319148936175,
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-161-235.txt"
+    },
+    {
+      "semantic_similarity": 0.86362624168396,
+      "rouge1_f": 0.6384858044164038,
+      "rouge2_f": 0.4118761844598863,
+      "rougeL_f": 0.3141955835962145,
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-18-54.txt"
+    },
+    {
+      "semantic_similarity": 0.8665042519569397,
+      "rouge1_f": 0.8224172856178258,
+      "rouge2_f": 0.47464503042596345,
+      "rougeL_f": 0.3322079675894666,
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-55-98.txt"
+    },
+    {
+      "semantic_similarity": 0.9114487171173096,
+      "rouge1_f": 0.7191011235955056,
+      "rouge2_f": 0.4475,
+      "rougeL_f": 0.348314606741573,
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-99-160.txt"
+    },
+    {
+      "semantic_similarity": 0.7372480630874634,
+      "rouge1_f": 0.6988155668358714,
+      "rouge2_f": 0.3237288135593221,
+      "rougeL_f": 0.3062605752961083,
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-14-89.txt"
+    },
+    {
+      "semantic_similarity": 0.698715090751648,
+      "rouge1_f": 0.7403462050599201,
+      "rouge2_f": 0.3546666666666667,
+      "rougeL_f": 0.3062583222370173,
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-169-263.txt"
+    },
+    {
+      "semantic_similarity": 0.8146883249282837,
+      "rouge1_f": 0.6889867841409691,
+      "rouge2_f": 0.32480141218005293,
+      "rougeL_f": 0.3030837004405286,
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-264-378.txt"
+    },
+    {
+      "semantic_similarity": 0.6270574331283569,
+      "rouge1_f": 0.49559255631733595,
+      "rouge2_f": 0.2833333333333333,
+      "rougeL_f": 0.25661116552399604,
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-379-441.txt"
+    },
+    {
+      "semantic_similarity": 0.8049402236938477,
+      "rouge1_f": 0.7361229718189582,
+      "rouge2_f": 0.33190761334473906,
+      "rougeL_f": 0.3125533731853117,
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-90-168.txt"
+    },
+    {
+      "semantic_similarity": 0.8495965600013733,
+      "rouge1_f": 0.7793153678077204,
+      "rouge2_f": 0.36177972283005105,
+      "rougeL_f": 0.3350327749453751,
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-101-203.txt"
+    },
+    {
+      "semantic_similarity": 0.7796724438667297,
+      "rouge1_f": 0.7845953002610966,
+      "rouge2_f": 0.3882352941176471,
+      "rougeL_f": 0.3093994778067885,
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-17-100.txt"
+    },
+    {
+      "semantic_similarity": 0.8450530767440796,
+      "rouge1_f": 0.6673151750972762,
+      "rouge2_f": 0.3099415204678363,
+      "rougeL_f": 0.30544747081712065,
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-204-296.txt"
+    },
+    {
+      "semantic_similarity": 0.7419959306716919,
+      "rouge1_f": 0.712892741061755,
+      "rouge2_f": 0.3676789587852495,
+      "rougeL_f": 0.314192849404117,
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-297-402.txt"
+    },
+    {
+      "semantic_similarity": 0.7903995513916016,
+      "rouge1_f": 0.6096759041803663,
+      "rouge2_f": 0.3432063939821345,
+      "rougeL_f": 0.2771254109910756,
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-403-500.txt"
+    },
+    {
+      "semantic_similarity": 0.8243647813796997,
+      "rouge1_f": 0.8106312292358804,
+      "rouge2_f": 0.4933481152993348,
+      "rougeL_f": 0.34108527131782945,
+      "filename": "Muon_kiep_nhan_sinh_1.txt"
+    },
+    {
+      "semantic_similarity": 0.8363471627235413,
+      "rouge1_f": 0.7190635451505017,
+      "rouge2_f": 0.4003350083752094,
+      "rougeL_f": 0.33612040133779264,
+      "filename": "Muon_kiep_nhan_sinh_2.txt"
+    },
+    {
+      "semantic_similarity": 0.8196499347686768,
+      "rouge1_f": 0.6694915254237288,
+      "rouge2_f": 0.3446519524617997,
+      "rougeL_f": 0.30000000000000004,
+      "filename": "Muon_kiep_nhan_sinh_3.txt"
+    },
+    {
+      "semantic_similarity": 0.8670951128005981,
+      "rouge1_f": 0.8012820512820512,
+      "rouge2_f": 0.4595635430038511,
+      "rougeL_f": 0.34487179487179487,
+      "filename": "Muon_kiep_nhan_sinh_4.txt"
+    },
+    {
+      "semantic_similarity": 0.8315617442131042,
+      "rouge1_f": 0.6583025830258302,
+      "rouge2_f": 0.3828529194382853,
+      "rougeL_f": 0.3143911439114391,
+      "filename": "Muon_kiep_nhan_sinh_5.txt"
+    },
+    {
+      "semantic_similarity": 0.8524258136749268,
+      "rouge1_f": 0.8262436914203316,
+      "rouge2_f": 0.4332129963898917,
+      "rougeL_f": 0.34030281182408073,
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-12-73.txt"
+    },
+    {
+      "semantic_similarity": 0.8588570952415466,
+      "rouge1_f": 0.5834046193327631,
+      "rouge2_f": 0.3844178082191781,
+      "rougeL_f": 0.29854576561163393,
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-130-187.txt"
+    },
+    {
+      "semantic_similarity": 0.8621578812599182,
+      "rouge1_f": 0.7604961832061068,
+      "rouge2_f": 0.4689589302769819,
+      "rougeL_f": 0.32061068702290074,
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-188-321.txt"
+    },
+    {
+      "semantic_similarity": 0.8012782335281372,
+      "rouge1_f": 0.8328267477203648,
+      "rouge2_f": 0.4576993304930006,
+      "rougeL_f": 0.3221884498480243,
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-74-129.txt"
+    },
+    {
+      "semantic_similarity": 0.7414793372154236,
+      "rouge1_f": 0.3879310344827586,
+      "rouge2_f": 0.2203023758099352,
+      "rougeL_f": 0.22413793103448276,
+      "filename": "_gulliver-du-ky-151-199.txt"
+    },
+    {
+      "semantic_similarity": 0.829930305480957,
+      "rouge1_f": 0.8136004857316332,
+      "rouge2_f": 0.4279635258358662,
+      "rougeL_f": 0.33515482695810567,
+      "filename": "_gulliver-du-ky-200-251.txt"
+    },
+    {
+      "semantic_similarity": 0.8450563549995422,
+      "rouge1_f": 0.7525354969574036,
+      "rouge2_f": 0.3191056910569106,
+      "rougeL_f": 0.3042596348884381,
+      "filename": "_gulliver-du-ky-4-53.txt"
+    },
+    {
+      "semantic_similarity": 0.8507715463638306,
+      "rouge1_f": 0.514426028238183,
+      "rouge2_f": 0.2507682851874616,
+      "rougeL_f": 0.2664211172498465,
+      "filename": "_gulliver-du-ky-54-94.txt"
+    },
+    {
+      "semantic_similarity": 0.7783836126327515,
+      "rouge1_f": 0.6954787234042553,
+      "rouge2_f": 0.35685752330226356,
+      "rougeL_f": 0.3098404255319149,
+      "filename": "_gulliver-du-ky-95-150.txt"
+    },
+    {
+      "semantic_similarity": 0.6721549034118652,
+      "rouge1_f": 0.7627471383975026,
+      "rouge2_f": 0.3875,
+      "rougeL_f": 0.3184183142559834,
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-11-68.txt"
+    },
+    {
+      "semantic_similarity": 0.7813804745674133,
+      "rouge1_f": 0.6072548141513658,
+      "rouge2_f": 0.37740923352756617,
+      "rougeL_f": 0.2928795342588446,
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-133-190.txt"
+    },
+    {
+      "semantic_similarity": 0.903407871723175,
+      "rouge1_f": 0.5387596899224807,
+      "rouge2_f": 0.351875808538163,
+      "rougeL_f": 0.28940568475452194,
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-191-255.txt"
+    },
+    {
+      "semantic_similarity": 0.8600940704345703,
+      "rouge1_f": 0.6919380672717564,
+      "rouge2_f": 0.4543025120256547,
+      "rougeL_f": 0.3182060864922584,
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-256-294.txt"
+    },
+    {
+      "semantic_similarity": 0.7618470191955566,
+      "rouge1_f": 0.7197084725174614,
+      "rouge2_f": 0.45396536007292615,
+      "rougeL_f": 0.3200728818706347,
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-69-132.txt"
+    },
+    {
+      "semantic_similarity": 0.6999614238739014,
+      "rouge1_f": 0.7325581395348837,
+      "rouge2_f": 0.3727121464226289,
+      "rougeL_f": 0.3255813953488372,
+      "filename": "ac-quy-nam-kinh-138-199.txt"
+    },
+    {
+      "semantic_similarity": 0.8360006213188171,
+      "rouge1_f": 0.7535211267605635,
+      "rouge2_f": 0.3681241184767279,
+      "rougeL_f": 0.31971830985915495,
+      "filename": "ac-quy-nam-kinh-15-76.txt"
+    },
+    {
+      "semantic_similarity": 0.15643244981765747,
+      "rouge1_f": 0.045081967213114756,
+      "rouge2_f": 0.004106776180698152,
+      "rougeL_f": 0.040983606557377046,
+      "filename": "ac-quy-nam-kinh-200-265.txt"
+    },
+    {
+      "semantic_similarity": 0.8003668785095215,
+      "rouge1_f": 0.5640038498556305,
+      "rouge2_f": 0.2976878612716763,
+      "rougeL_f": 0.2858517805582291,
+      "filename": "ac-quy-nam-kinh-266-328.txt"
+    },
+    {
+      "semantic_similarity": 0.7878496050834656,
+      "rouge1_f": 0.7631785995279307,
+      "rouge2_f": 0.3609141055949566,
+      "rougeL_f": 0.31156569630212433,
+      "filename": "ac-quy-nam-kinh-77-137.txt"
+    },
+    {
+      "semantic_similarity": 0.8775052428245544,
+      "rouge1_f": 0.7352941176470589,
+      "rouge2_f": 0.37917485265225936,
+      "rougeL_f": 0.31960784313725493,
+      "filename": "an-may-di-vang-105-151.txt"
+    },
+    {
+      "semantic_similarity": 0.8506526350975037,
+      "rouge1_f": 0.7368901048791608,
+      "rouge2_f": 0.42263806481058874,
+      "rougeL_f": 0.3337893296853625,
+      "filename": "an-may-di-vang-152-220.txt"
+    },
+    {
+      "semantic_similarity": 0.8683464527130127,
+      "rouge1_f": 0.7116883116883117,
+      "rouge2_f": 0.3498049414824447,
+      "rougeL_f": 0.3181818181818182,
+      "filename": "an-may-di-vang-221-267.txt"
+    },
+    {
+      "semantic_similarity": 0.8165363073348999,
+      "rouge1_f": 0.7812692544670364,
+      "rouge2_f": 0.4614435533621221,
+      "rougeL_f": 0.3462723351817622,
+      "filename": "an-may-di-vang-4-49.txt"
+    },
+    {
+      "semantic_similarity": 0.8590213060379028,
+      "rouge1_f": 0.5238879736408567,
+      "rouge2_f": 0.32151690024732066,
+      "rougeL_f": 0.271828665568369,
+      "filename": "an-may-di-vang-50-104.txt"
+    },
+    {
+      "semantic_similarity": 0.8671144843101501,
+      "rouge1_f": 0.7873303167420815,
+      "rouge2_f": 0.3997734994337485,
+      "rougeL_f": 0.31447963800904977,
+      "filename": "anh-chang-hobbit-11-66.txt"
+    },
+    {
+      "semantic_similarity": 0.8079863786697388,
+      "rouge1_f": 0.7929089443996776,
+      "rouge2_f": 0.43099273607748184,
+      "rougeL_f": 0.33199033037872683,
+      "filename": "anh-chang-hobbit-145-190.txt"
+    },
+    {
+      "semantic_similarity": 0.8264893293380737,
+      "rouge1_f": 0.6141502552881108,
+      "rouge2_f": 0.3535427319211103,
+      "rougeL_f": 0.275711159737418,
+      "filename": "anh-chang-hobbit-191-242.txt"
+    },
+    {
+      "semantic_similarity": 0.8380306959152222,
+      "rouge1_f": 0.7262118491921005,
+      "rouge2_f": 0.4177897574123989,
+      "rougeL_f": 0.3123877917414722,
+      "filename": "anh-chang-hobbit-243-300.txt"
+    },
+    {
+      "semantic_similarity": 0.7957426905632019,
+      "rouge1_f": 0.47346938775510206,
+      "rouge2_f": 0.27792915531335155,
+      "rougeL_f": 0.2476190476190476,
+      "filename": "anh-chang-hobbit-67-144.txt"
+    },
+    {
+      "semantic_similarity": 0.9036173820495605,
+      "rouge1_f": 0.7186091435930457,
+      "rouge2_f": 0.3778207607994842,
+      "rougeL_f": 0.3026400515132002,
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-125-184.txt"
+    },
+    {
+      "semantic_similarity": 0.8103786110877991,
+      "rouge1_f": 0.7805825242718447,
+      "rouge2_f": 0.4091350826044704,
+      "rougeL_f": 0.31359223300970873,
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-185-244.txt"
+    },
+    {
+      "semantic_similarity": 0.8579003810882568,
+      "rouge1_f": 0.5688225538971807,
+      "rouge2_f": 0.3073089700996678,
+      "rougeL_f": 0.2769485903814262,
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-245-314.txt"
+    },
+    {
+      "semantic_similarity": 0.7497535943984985,
+      "rouge1_f": 0.7597911227154047,
+      "rouge2_f": 0.38823529411764707,
+      "rougeL_f": 0.31462140992167104,
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-5-66.txt"
+    },
+    {
+      "semantic_similarity": 0.845356285572052,
+      "rouge1_f": 0.7892659826361484,
+      "rouge2_f": 0.36996047430830037,
+      "rougeL_f": 0.3267561168113654,
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-67-124.txt"
+    },
+    {
+      "semantic_similarity": 0.8195115327835083,
+      "rouge1_f": 0.6623655913978495,
+      "rouge2_f": 0.31465517241379304,
+      "rougeL_f": 0.28817204301075267,
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-103-205.txt"
+    },
+    {
+      "semantic_similarity": 0.8341116905212402,
+      "rouge1_f": 0.6570605187319883,
+      "rouge2_f": 0.3484119345524542,
+      "rougeL_f": 0.30163304514889533,
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-206-312.txt"
+    },
+    {
+      "semantic_similarity": 0.8070578575134277,
+      "rouge1_f": 0.7364532019704434,
+      "rouge2_f": 0.38224414303329224,
+      "rougeL_f": 0.32389162561576357,
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-7-102.txt"
+    },
+    {
+      "semantic_similarity": 0.5605394840240479,
+      "rouge1_f": 0.12918108419838523,
+      "rouge2_f": 0.06011560693641618,
+      "rougeL_f": 0.10149942329873124,
+      "filename": "ba-chang-ngoc-115-199.txt"
+    },
+    {
+      "semantic_similarity": 0.8925899267196655,
+      "rouge1_f": 0.6564978645515559,
+      "rouge2_f": 0.33475870494807575,
+      "rougeL_f": 0.2928615009151922,
+      "filename": "ba-chang-ngoc-200-308.txt"
+    },
+    {
+      "semantic_similarity": 0.8615617752075195,
+      "rouge1_f": 0.8195754716981133,
+      "rouge2_f": 0.44864226682408503,
+      "rougeL_f": 0.31957547169811323,
+      "filename": "ba-chang-ngoc-7-114.txt"
+    },
+    {
+      "semantic_similarity": 0.8446663618087769,
+      "rouge1_f": 0.565625,
+      "rouge2_f": 0.2769953051643192,
+      "rougeL_f": 0.2765625,
+      "filename": "baby-thuong-hai-107-205.txt"
+    },
+    {
+      "semantic_similarity": 0.8410699963569641,
+      "rouge1_f": 0.6153846153846154,
+      "rouge2_f": 0.34097589653145205,
+      "rougeL_f": 0.30299471520845567,
+      "filename": "baby-thuong-hai-206-301.txt"
+    },
+    {
+      "semantic_similarity": 0.8590844869613647,
+      "rouge1_f": 0.6,
+      "rouge2_f": 0.34435797665369644,
+      "rougeL_f": 0.30291262135922326,
+      "filename": "baby-thuong-hai-5-106.txt"
+    },
+    {
+      "semantic_similarity": 0.8259505033493042,
+      "rouge1_f": 0.7383177570093458,
+      "rouge2_f": 0.3342245989304813,
+      "rougeL_f": 0.3030707610146863,
+      "filename": "bac-si-zhivago-190-311.txt"
+    },
+    {
+      "semantic_similarity": 0.8362923860549927,
+      "rouge1_f": 0.50989010989011,
+      "rouge2_f": 0.3273207215134184,
+      "rougeL_f": 0.27164835164835166,
+      "filename": "bac-si-zhivago-312-387.txt"
+    },
+    {
+      "semantic_similarity": 0.833184003829956,
+      "rouge1_f": 0.7533297815663292,
+      "rouge2_f": 0.39786666666666665,
+      "rougeL_f": 0.3004794885455514,
+      "filename": "bac-si-zhivago-6-97.txt"
+    },
+    {
+      "semantic_similarity": 0.8370412588119507,
+      "rouge1_f": 0.47205882352941175,
+      "rouge2_f": 0.26067746686303384,
+      "rougeL_f": 0.2529411764705882,
+      "filename": "bac-si-zhivago-98-189.txt"
+    },
+    {
+      "semantic_similarity": 0.8622444272041321,
+      "rouge1_f": 0.46411225040474907,
+      "rouge2_f": 0.26688276607239325,
+      "rougeL_f": 0.2504047490555856,
+      "filename": "bi-mat-dem-he-104-214.txt"
+    },
+    {
+      "semantic_similarity": 0.8408574461936951,
+      "rouge1_f": 0.7775280898876405,
+      "rouge2_f": 0.38020247469066365,
+      "rougeL_f": 0.3089887640449438,
+      "filename": "bi-mat-dem-he-215-302.txt"
+    },
+    {
+      "semantic_similarity": 0.6926150321960449,
+      "rouge1_f": 0.7772020725388602,
+      "rouge2_f": 0.417639429312581,
+      "rougeL_f": 0.3225388601036269,
+      "filename": "bi-mat-dem-he-7-103.txt"
+    },
+    {
+      "semantic_similarity": 0.886035680770874,
+      "rouge1_f": 0.7432432432432433,
+      "rouge2_f": 0.399098083427283,
+      "rougeL_f": 0.320945945945946,
+      "filename": "bi-mat-ngoi-mo-co-129-241.txt"
+    },
+    {
+      "semantic_similarity": 0.7952632308006287,
+      "rouge1_f": 0.7641456582633053,
+      "rouge2_f": 0.38025799214806505,
+      "rougeL_f": 0.346218487394958,
+      "filename": "bi-mat-ngoi-mo-co-5-128.txt"
+    },
+    {
+      "semantic_similarity": 0.8240643739700317,
+      "rouge1_f": 0.6853526220614827,
+      "rouge2_f": 0.2934782608695652,
+      "rougeL_f": 0.29294755877034356,
+      "filename": "bieu-tuong-that-truyen-109-210.txt"
+    },
+    {
+      "semantic_similarity": 0.8489779233932495,
+      "rouge1_f": 0.531356898517674,
+      "rouge2_f": 0.34157474324838344,
+      "rougeL_f": 0.2751805397187381,
+      "filename": "bieu-tuong-that-truyen-11-108.txt"
+    },
+    {
+      "semantic_similarity": 0.7401087284088135,
+      "rouge1_f": 0.7140664961636829,
+      "rouge2_f": 0.3922171018945212,
+      "rougeL_f": 0.2997442455242967,
+      "filename": "bieu-tuong-that-truyen-211-321.txt"
+    },
+    {
+      "semantic_similarity": 0.7206501960754395,
+      "rouge1_f": 0.7785598267460748,
+      "rouge2_f": 0.3869918699186992,
+      "rougeL_f": 0.2999458581483487,
+      "filename": "bieu-tuong-that-truyen-322-459.txt"
+    },
+    {
+      "semantic_similarity": 0.7263081669807434,
+      "rouge1_f": 0.7167409293443668,
+      "rouge2_f": 0.37348629700446145,
+      "rougeL_f": 0.2978994271164863,
+      "filename": "bieu-tuong-that-truyen-460-643.txt"
+    },
+    {
+      "semantic_similarity": 0.7959904670715332,
+      "rouge1_f": 0.6996291718170581,
+      "rouge2_f": 0.30569306930693074,
+      "rougeL_f": 0.30407911001236093,
+      "filename": "bo-gia-103-200.txt"
+    },
+    {
+      "semantic_similarity": 0.8496564626693726,
+      "rouge1_f": 0.7593790426908151,
+      "rouge2_f": 0.35880829015544047,
+      "rougeL_f": 0.3001293661060802,
+      "filename": "bo-gia-201-314.txt"
+    },
+    {
+      "semantic_similarity": 0.7994592189788818,
+      "rouge1_f": 0.6839577329490875,
+      "rouge2_f": 0.27526467757459094,
+      "rougeL_f": 0.30739673390970224,
+      "filename": "bo-gia-315-416.txt"
+    },
+    {
+      "semantic_similarity": 0.8001960515975952,
+      "rouge1_f": 0.5919869174161898,
+      "rouge2_f": 0.2964782964782965,
+      "rougeL_f": 0.2747342600163532,
+      "filename": "bo-gia-7-102.txt"
+    },
+    {
+      "semantic_similarity": 0.7670375108718872,
+      "rouge1_f": 0.7417900837089504,
+      "rouge2_f": 0.3868471953578337,
+      "rougeL_f": 0.3155183515775918,
+      "filename": "bong-hinh-cua-gio-1-153.txt"
+    },
+    {
+      "semantic_similarity": 0.755128026008606,
+      "rouge1_f": 0.6386292834890965,
+      "rouge2_f": 0.3243243243243243,
+      "rougeL_f": 0.29491173416407057,
+      "filename": "bong-hinh-cua-gio-154-306.txt"
+    },
+    {
+      "semantic_similarity": 0.7704267501831055,
+      "rouge1_f": 0.7338461538461538,
+      "rouge2_f": 0.35130970724191063,
+      "rougeL_f": 0.3292307692307692,
+      "filename": "bong-hinh-cua-gio-307-499.txt"
+    },
+    {
+      "semantic_similarity": 0.8467503786087036,
+      "rouge1_f": 0.6216596343178622,
+      "rouge2_f": 0.34929577464788736,
+      "rougeL_f": 0.28973277074542897,
+      "filename": "cao-diem-cuoi-cung-155-349.txt"
+    },
+    {
+      "semantic_similarity": 0.8848984241485596,
+      "rouge1_f": 0.6375,
+      "rouge2_f": 0.34525939177101966,
+      "rougeL_f": 0.2982142857142857,
+      "filename": "cao-diem-cuoi-cung-3-154.txt"
+    },
+    {
+      "semantic_similarity": 0.7705572843551636,
+      "rouge1_f": 0.7431850789096127,
+      "rouge2_f": 0.34339080459770116,
+      "rougeL_f": 0.2898134863701578,
+      "filename": "cha-con-giao-hoang-110-289.txt"
+    },
+    {
+      "semantic_similarity": 0.7163808345794678,
+      "rouge1_f": 0.7468643101482326,
+      "rouge2_f": 0.37214611872146114,
+      "rougeL_f": 0.2998859749144812,
+      "filename": "cha-con-giao-hoang-290-522.txt"
+    },
+    {
+      "semantic_similarity": 0.8256480693817139,
+      "rouge1_f": 0.7619047619047619,
+      "rouge2_f": 0.37861271676300573,
+      "rougeL_f": 0.30014430014430016,
+      "filename": "cha-con-giao-hoang-9-109.txt"
+    },
+    {
+      "semantic_similarity": 0.8713738918304443,
+      "rouge1_f": 0.7771428571428571,
+      "rouge2_f": 0.4364276286845578,
+      "rougeL_f": 0.3252747252747253,
+      "filename": "chua-ruoi-152-250.txt"
+    },
+    {
+      "semantic_similarity": 0.8284869194030762,
+      "rouge1_f": 0.6652864044168393,
+      "rouge2_f": 0.29440221147201107,
+      "rougeL_f": 0.3008971704623878,
+      "filename": "chua-ruoi-7-151.txt"
+    },
+    {
+      "semantic_similarity": 0.8622617721557617,
+      "rouge1_f": 0.7282051282051283,
+      "rouge2_f": 0.3888481291269259,
+      "rougeL_f": 0.3252747252747253,
+      "filename": "chuyen-thoi-bao-cap-6-132.txt"
+    },
+    {
+      "semantic_similarity": 0.8704543113708496,
+      "rouge1_f": 0.6543608675588369,
+      "rouge2_f": 0.35381062355658194,
+      "rougeL_f": 0.3017997231195201,
+      "filename": "co-gai-dan-mach-169-286.txt"
+    },
+    {
+      "semantic_similarity": 0.8491014242172241,
+      "rouge1_f": 0.7250571210967249,
+      "rouge2_f": 0.3691838291380626,
+      "rougeL_f": 0.3107387661843108,
+      "filename": "co-gai-dan-mach-7-168.txt"
+    },
+    {
+      "semantic_similarity": 0.8982224464416504,
+      "rouge1_f": 0.7830188679245284,
+      "rouge2_f": 0.4251968503937008,
+      "rougeL_f": 0.34433962264150947,
+      "filename": "con-duong-vay-mau-190-281.txt"
+    },
+    {
+      "semantic_similarity": 0.8137897849082947,
+      "rouge1_f": 0.7411347517730495,
+      "rouge2_f": 0.3854351687388987,
+      "rougeL_f": 0.3546099290780142,
+      "filename": "con-duong-vay-mau-282-389.txt"
+    },
+    {
+      "semantic_similarity": 0.8648276329040527,
+      "rouge1_f": 0.7751479289940828,
+      "rouge2_f": 0.456071076011846,
+      "rougeL_f": 0.3431952662721894,
+      "filename": "con-duong-vay-mau-390-501.txt"
+    },
+    {
+      "semantic_similarity": 0.8422936797142029,
+      "rouge1_f": 0.7294649585531272,
+      "rouge2_f": 0.3879245283018868,
+      "rougeL_f": 0.3421250941974378,
+      "filename": "con-duong-vay-mau-5-91.txt"
+    },
+    {
+      "semantic_similarity": 0.8970891237258911,
+      "rouge1_f": 0.7655583972719522,
+      "rouge2_f": 0.43894107600341586,
+      "rougeL_f": 0.3597612958226769,
+      "filename": "con-duong-vay-mau-92-189.txt"
+    },
+    {
+      "semantic_similarity": 0.8649022579193115,
+      "rouge1_f": 0.787297783103655,
+      "rouge2_f": 0.4163167366526694,
+      "rougeL_f": 0.32834032354703413,
+      "filename": "cong-tuoc-va-em-148-287.txt"
+    },
+    {
+      "semantic_similarity": 0.8359355926513672,
+      "rouge1_f": 0.579825258141382,
+      "rouge2_f": 0.29276054097056486,
+      "rougeL_f": 0.28435266084193805,
+      "filename": "cong-tuoc-va-em-9-147.txt"
+    },
+    {
+      "semantic_similarity": 0.8381017446517944,
+      "rouge1_f": 0.6514285714285714,
+      "rouge2_f": 0.3148854961832061,
+      "rougeL_f": 0.2857142857142857,
+      "filename": "cuoc-chien-khuy-cuc-11-139.txt"
+    },
+    {
+      "semantic_similarity": 0.841132402420044,
+      "rouge1_f": 0.6025408348457351,
+      "rouge2_f": 0.28,
+      "rougeL_f": 0.28856624319419233,
+      "filename": "cuoc-chien-khuy-cuc-140-237.txt"
+    },
+    {
+      "semantic_similarity": 0.8088815212249756,
+      "rouge1_f": 0.4432234432234432,
+      "rouge2_f": 0.25688073394495414,
+      "rougeL_f": 0.2509157509157509,
+      "filename": "cuoc-doi-galilei-11-151.txt"
+    },
+    {
+      "semantic_similarity": 0.8305261135101318,
+      "rouge1_f": 0.7914032869785083,
+      "rouge2_f": 0.4177215189873417,
+      "rougeL_f": 0.31479140328697847,
+      "filename": "cuu-tinh-xu-cat-12-144.txt"
+    },
+    {
+      "semantic_similarity": 0.7505162954330444,
+      "rouge1_f": 0.5761024182076814,
+      "rouge2_f": 0.32051282051282054,
+      "rougeL_f": 0.29160739687055476,
+      "filename": "cuu-tinh-xu-cat-145-344.txt"
+    },
+    {
+      "semantic_similarity": 0.8613982200622559,
+      "rouge1_f": 0.5825716026812918,
+      "rouge2_f": 0.348993288590604,
+      "rougeL_f": 0.2900670322973796,
+      "filename": "da-khuc-nam-cau-chuyen-ve-am-nhac-va-dem-buong-7-167.txt"
+    },
+    {
+      "semantic_similarity": 0.24312618374824524,
+      "rouge1_f": 0.050216450216450215,
+      "rouge2_f": 0.013876843018213358,
+      "rougeL_f": 0.039826839826839835,
+      "filename": "danh-vong-va-toi-ac-152-312.txt"
+    },
+    {
+      "semantic_similarity": 0.77849280834198,
+      "rouge1_f": 0.734782608695652,
+      "rouge2_f": 0.36719883889695215,
+      "rougeL_f": 0.3057971014492753,
+      "filename": "danh-vong-va-toi-ac-313-366.txt"
+    },
+    {
+      "semantic_similarity": 0.8696635961532593,
+      "rouge1_f": 0.49292256452955874,
+      "rouge2_f": 0.2602168473728107,
+      "rougeL_f": 0.25312239800166525,
+      "filename": "danh-vong-va-toi-ac-4-151.txt"
+    },
+    {
+      "semantic_similarity": 0.7723747491836548,
+      "rouge1_f": 0.7338709677419356,
+      "rouge2_f": 0.3674293405114401,
+      "rougeL_f": 0.31048387096774194,
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-10-102.txt"
+    },
+    {
+      "semantic_similarity": 0.8001857399940491,
+      "rouge1_f": 0.6815114709851552,
+      "rouge2_f": 0.3432432432432433,
+      "rougeL_f": 0.32118758434547906,
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-103-202.txt"
+    },
+    {
+      "semantic_similarity": 0.7976711988449097,
+      "rouge1_f": 0.6118626430801248,
+      "rouge2_f": 0.33229166666666665,
+      "rougeL_f": 0.2892819979188345,
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-203-309.txt"
+    },
+    {
+      "semantic_similarity": 0.8581689596176147,
+      "rouge1_f": 0.6517690875232774,
+      "rouge2_f": 0.357986326911125,
+      "rougeL_f": 0.2991930477963997,
+      "filename": "dem-hoi-long-tri-8-134.txt"
+    },
+    {
+      "semantic_similarity": 0.8919168710708618,
+      "rouge1_f": 0.8080939947780679,
+      "rouge2_f": 0.42745098039215684,
+      "rougeL_f": 0.3381201044386423,
+      "filename": "di-tim-le-song-11-111.txt"
+    },
+    {
+      "semantic_similarity": 0.8332480788230896,
+      "rouge1_f": 0.45704162976085033,
+      "rouge2_f": 0.28571428571428575,
+      "rougeL_f": 0.2728077945084145,
+      "filename": "dieu-y-nghia-nhat-trong-tung-khoanh-khac-cuoc-doi-6-165.txt"
+    },
+    {
+      "semantic_similarity": 0.8667640089988708,
+      "rouge1_f": 0.44434589800443464,
+      "rouge2_f": 0.21482467820683532,
+      "rougeL_f": 0.2492239467849224,
+      "filename": "do-kheo-giang-hay-nang-cao-tri-tue-14-165.txt"
+    },
+    {
+      "semantic_similarity": 0.8658651113510132,
+      "rouge1_f": 0.7642393655371306,
+      "rouge2_f": 0.3711191335740072,
+      "rougeL_f": 0.3143475126171594,
+      "filename": "dong-rac-cu-tron-bo-1117-1307.txt"
+    },
+    {
+      "semantic_similarity": 0.794782280921936,
+      "rouge1_f": 0.7506527415143603,
+      "rouge2_f": 0.3542483660130719,
+      "rougeL_f": 0.3263707571801566,
+      "filename": "dong-rac-cu-tron-bo-485-660.txt"
+    },
+    {
+      "semantic_similarity": 0.8790166974067688,
+      "rouge1_f": 0.7699938003719777,
+      "rouge2_f": 0.40968342644320294,
+      "rougeL_f": 0.314941103533788,
+      "filename": "dong-rac-cu-tron-bo-663-922.txt"
+    },
+    {
+      "semantic_similarity": 0.852635383605957,
+      "rouge1_f": 0.6644518272425248,
+      "rouge2_f": 0.3344425956738769,
+      "rougeL_f": 0.31229235880398665,
+      "filename": "dong-rac-cu-tron-bo-8-276.txt"
+    },
+    {
+      "semantic_similarity": 0.43444132804870605,
+      "rouge1_f": 0.06701570680628272,
+      "rouge2_f": 0.02938090241343127,
+      "rougeL_f": 0.06492146596858638,
+      "filename": "dong-rac-cu-tron-bo-925-1116.txt"
+    },
+    {
+      "semantic_similarity": 0.762489914894104,
+      "rouge1_f": 0.7346221441124781,
+      "rouge2_f": 0.4019349164467898,
+      "rougeL_f": 0.3075571177504393,
+      "filename": "dua-tre-thu-44-6-93.txt"
+    },
+    {
+      "semantic_similarity": 0.8074203729629517,
+      "rouge1_f": 0.6909090909090908,
+      "rouge2_f": 0.3585217870932157,
+      "rougeL_f": 0.3074380165289256,
+      "filename": "dua-tre-thu-44-94-308.txt"
+    },
+    {
+      "semantic_similarity": 0.8616100549697876,
+      "rouge1_f": 0.5826771653543307,
+      "rouge2_f": 0.3633975481611209,
+      "rougeL_f": 0.294838145231846,
+      "filename": "duong-chan-troi-da-mat-133-190.txt"
+    },
+    {
+      "semantic_similarity": 0.6887410879135132,
+      "rouge1_f": 0.7943512797881729,
+      "rouge2_f": 0.4363957597173145,
+      "rougeL_f": 0.32480141218005293,
+      "filename": "duong-chan-troi-da-mat-4-132.txt"
+    },
+    {
+      "semantic_similarity": 0.872717022895813,
+      "rouge1_f": 0.6769230769230768,
+      "rouge2_f": 0.3622366288492706,
+      "rougeL_f": 0.30364372469635625,
+      "filename": "dut-tinh-6-128.txt"
+    },
+    {
+      "semantic_similarity": 0.8010890483856201,
+      "rouge1_f": 0.6435810810810811,
+      "rouge2_f": 0.3367174280879865,
+      "rougeL_f": 0.3023648648648649,
+      "filename": "emily-tren-dai-cau-vong-199-383.txt"
+    },
+    {
+      "semantic_similarity": 0.774890124797821,
+      "rouge1_f": 0.7027027027027027,
+      "rouge2_f": 0.3853820598006645,
+      "rougeL_f": 0.31009957325746795,
+      "filename": "emily-tren-dai-cau-vong-6-198.txt"
+    },
+    {
+      "semantic_similarity": 0.7432751059532166,
+      "rouge1_f": 0.6434426229508197,
+      "rouge2_f": 0.39302802460697195,
+      "rougeL_f": 0.30601092896174864,
+      "filename": "giet-con-chim-nhai-160-289.txt"
+    },
+    {
+      "semantic_similarity": 0.7601295709609985,
+      "rouge1_f": 0.6093489148580968,
+      "rouge2_f": 0.3260869565217392,
+      "rougeL_f": 0.2854757929883139,
+      "filename": "giet-con-chim-nhai-5-159.txt"
+    },
+    {
+      "semantic_similarity": 0.8136359453201294,
+      "rouge1_f": 0.5391380826737028,
+      "rouge2_f": 0.3142605633802817,
+      "rougeL_f": 0.2726473175021987,
+      "filename": "hai-so-phan-10-123.txt"
+    },
+    {
+      "semantic_similarity": 0.8731729984283447,
+      "rouge1_f": 0.5374310480693459,
+      "rouge2_f": 0.26677190213101815,
+      "rougeL_f": 0.26004728132387706,
+      "filename": "hai-so-phan-124-213.txt"
+    },
+    {
+      "semantic_similarity": 0.820195198059082,
+      "rouge1_f": 0.7286153846153846,
+      "rouge2_f": 0.3696857670979667,
+      "rougeL_f": 0.2966153846153846,
+      "filename": "hai-so-phan-214-379.txt"
+    },
+    {
+      "semantic_similarity": 0.7830708026885986,
+      "rouge1_f": 0.6603448275862069,
+      "rouge2_f": 0.27979274611398963,
+      "rougeL_f": 0.29310344827586204,
+      "filename": "hai-so-phan-380-557.txt"
+    },
+    {
+      "semantic_similarity": 0.6992738246917725,
+      "rouge1_f": 0.5923566878980892,
+      "rouge2_f": 0.3411264612114772,
+      "rougeL_f": 0.291932059447983,
+      "filename": "ndung-noi-mot-ai-103-251.txt"
+    },
+    {
+      "semantic_similarity": 0.7580060362815857,
+      "rouge1_f": 0.666950233943003,
+      "rouge2_f": 0.4044274159216688,
+      "rougeL_f": 0.3054019566142067,
+      "filename": "ndung-noi-mot-ai-15-102.txt"
+    },
+    {
+      "semantic_similarity": 0.8702841997146606,
+      "rouge1_f": 0.7795698924731181,
+      "rouge2_f": 0.38896366083445494,
+      "rougeL_f": 0.32392473118279563,
+      "filename": "nguon-goc-cac-loai-100-145.txt"
+    },
+    {
+      "semantic_similarity": 0.8785474896430969,
+      "rouge1_f": 0.830860534124629,
+      "rouge2_f": 0.46345811051693414,
+      "rougeL_f": 0.3359050445103858,
+      "filename": "nguon-goc-cac-loai-146-181.txt"
+    },
+    {
+      "semantic_similarity": 0.8508602380752563,
+      "rouge1_f": 0.7974137931034483,
+      "rouge2_f": 0.4158273381294964,
+      "rougeL_f": 0.3390804597701149,
+      "filename": "nguon-goc-cac-loai-182-249.txt"
+    },
+    {
+      "semantic_similarity": 0.814751148223877,
+      "rouge1_f": 0.8168853394181403,
+      "rouge2_f": 0.44660194174757284,
+      "rougeL_f": 0.3297204791785511,
+      "filename": "nguon-goc-cac-loai-33-66.txt"
+    },
+    {
+      "semantic_similarity": 0.805884838104248,
+      "rouge1_f": 0.49840028439388556,
+      "rouge2_f": 0.28601921024546423,
+      "rougeL_f": 0.2772840383931745,
+      "filename": "nguon-goc-cac-loai-67-99.txt"
+    },
+    {
+      "semantic_similarity": 0.8087191581726074,
+      "rouge1_f": 0.7010676156583632,
+      "rouge2_f": 0.27807486631016043,
+      "rougeL_f": 0.300711743772242,
+      "filename": "soi-va-gia-vi-tap-2-117-157.txt"
+    },
+    {
+      "semantic_similarity": 0.8233209252357483,
+      "rouge1_f": 0.7498424700693131,
+      "rouge2_f": 0.3798107255520505,
+      "rougeL_f": 0.3251417769376181,
+      "filename": "soi-va-gia-vi-tap-2-158-221.txt"
+    },
+    {
+      "semantic_similarity": 0.8321431875228882,
+      "rouge1_f": 0.7877522616562282,
+      "rouge2_f": 0.3874564459930313,
+      "rougeL_f": 0.3103688239387613,
+      "filename": "soi-va-gia-vi-tap-2-222-276.txt"
+    },
+    {
+      "semantic_similarity": 0.824841320514679,
+      "rouge1_f": 0.49543049543049544,
+      "rouge2_f": 0.26576793452094366,
+      "rougeL_f": 0.27032227032227035,
+      "filename": "soi-va-gia-vi-tap-2-4-58.txt"
+    },
+    {
+      "semantic_similarity": 0.8454405069351196,
+      "rouge1_f": 0.6593673965936739,
+      "rouge2_f": 0.38367844092570036,
+      "rougeL_f": 0.318734793187348,
+      "filename": "soi-va-gia-vi-tap-2-59-116.txt"
+    },
+    {
+      "semantic_similarity": 0.8083846569061279,
+      "rouge1_f": 0.4624422996223248,
+      "rouge2_f": 0.28811423771524575,
+      "rougeL_f": 0.2668904741921947,
+      "filename": "truong_ca_achilles_1.txt"
+    },
+    {
+      "semantic_similarity": 0.75600266456604,
+      "rouge1_f": 0.4484902309058615,
+      "rouge2_f": 0.2817777777777778,
+      "rougeL_f": 0.2655417406749556,
+      "filename": "truong_ca_achilles_2.txt"
+    },
+    {
+      "semantic_similarity": 0.7875884771347046,
+      "rouge1_f": 0.6782296650717703,
+      "rouge2_f": 0.325748502994012,
+      "rougeL_f": 0.30861244019138756,
+      "filename": "truong_ca_achilles_3.txt"
+    },
+    {
+      "semantic_similarity": 0.7775636911392212,
+      "rouge1_f": 0.48013967699694454,
+      "rouge2_f": 0.28571428571428564,
+      "rougeL_f": 0.2549105194238324,
+      "filename": "truong_ca_achilles_4.txt"
+    },
+    {
+      "semantic_similarity": 0.7326162457466125,
+      "rouge1_f": 0.6968553459119496,
+      "rouge2_f": 0.36272040302267006,
+      "rougeL_f": 0.3044025157232705,
+      "filename": "truong_ca_achilles_5.txt"
+    }
+  ]
+}

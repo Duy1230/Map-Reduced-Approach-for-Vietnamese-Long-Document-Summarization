@@ -1,0 +1,1070 @@
+{
+  "summary": {
+    "total_files": 150,
+    "total_tokens": 8239499,
+    "total_characters": 25204859,
+    "total_words": 5580859,
+    "average_tokens_per_file": 54566.21854304636,
+    "average_characters_per_file": 166919.59602649006,
+    "average_words_per_file": 36959.33112582781
+  },
+  "files": [
+    {
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-161-235.txt",
+      "path": ".\\data\\doc\\6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-161-235.txt",
+      "tokens": 29097,
+      "characters": 96294,
+      "words": 21879
+    },
+    {
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-18-54.txt",
+      "path": ".\\data\\doc\\6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-18-54.txt",
+      "tokens": 14479,
+      "characters": 47809,
+      "words": 10893
+    },
+    {
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-55-98.txt",
+      "path": ".\\data\\doc\\6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-55-98.txt",
+      "tokens": 16660,
+      "characters": 55032,
+      "words": 12577
+    },
+    {
+      "filename": "6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-99-160.txt",
+      "path": ".\\data\\doc\\6037-phuong-phap-hoc-tap-feynman-thuviensach.vn-99-160.txt",
+      "tokens": 24467,
+      "characters": 80674,
+      "words": 18441
+    },
+    {
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-14-89.txt",
+      "path": ".\\data\\doc\\9-tuyet-chieu-tom-ke-phong-dang-14-89.txt",
+      "tokens": 38062,
+      "characters": 115794,
+      "words": 25026
+    },
+    {
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-169-263.txt",
+      "path": ".\\data\\doc\\9-tuyet-chieu-tom-ke-phong-dang-169-263.txt",
+      "tokens": 48394,
+      "characters": 145240,
+      "words": 31575
+    },
+    {
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-264-378.txt",
+      "path": ".\\data\\doc\\9-tuyet-chieu-tom-ke-phong-dang-264-378.txt",
+      "tokens": 58528,
+      "characters": 176194,
+      "words": 38126
+    },
+    {
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-379-441.txt",
+      "path": ".\\data\\doc\\9-tuyet-chieu-tom-ke-phong-dang-379-441.txt",
+      "tokens": 32472,
+      "characters": 96871,
+      "words": 21108
+    },
+    {
+      "filename": "9-tuyet-chieu-tom-ke-phong-dang-90-168.txt",
+      "path": ".\\data\\doc\\9-tuyet-chieu-tom-ke-phong-dang-90-168.txt",
+      "tokens": 38545,
+      "characters": 116709,
+      "words": 25131
+    },
+    {
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-101-203.txt",
+      "path": ".\\data\\doc\\Ba Nguoi Linh Ngu Lam - Alexandre Dumas-101-203.txt",
+      "tokens": 58028,
+      "characters": 169318,
+      "words": 37515
+    },
+    {
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-17-100.txt",
+      "path": ".\\data\\doc\\Ba Nguoi Linh Ngu Lam - Alexandre Dumas-17-100.txt",
+      "tokens": 54158,
+      "characters": 154870,
+      "words": 33806
+    },
+    {
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-204-296.txt",
+      "path": ".\\data\\doc\\Ba Nguoi Linh Ngu Lam - Alexandre Dumas-204-296.txt",
+      "tokens": 50663,
+      "characters": 148618,
+      "words": 33015
+    },
+    {
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-297-402.txt",
+      "path": ".\\data\\doc\\Ba Nguoi Linh Ngu Lam - Alexandre Dumas-297-402.txt",
+      "tokens": 65475,
+      "characters": 188077,
+      "words": 41803
+    },
+    {
+      "filename": "Ba Nguoi Linh Ngu Lam - Alexandre Dumas-403-500.txt",
+      "path": ".\\data\\doc\\Ba Nguoi Linh Ngu Lam - Alexandre Dumas-403-500.txt",
+      "tokens": 54623,
+      "characters": 157965,
+      "words": 34898
+    },
+    {
+      "filename": "Muon_kiep_nhan_sinh_1.txt",
+      "path": ".\\data\\doc\\Muon_kiep_nhan_sinh_1.txt",
+      "tokens": 9065,
+      "characters": 30294,
+      "words": 6711
+    },
+    {
+      "filename": "Muon_kiep_nhan_sinh_2.txt",
+      "path": ".\\data\\doc\\Muon_kiep_nhan_sinh_2.txt",
+      "tokens": 4654,
+      "characters": 15112,
+      "words": 3409
+    },
+    {
+      "filename": "Muon_kiep_nhan_sinh_3.txt",
+      "path": ".\\data\\doc\\Muon_kiep_nhan_sinh_3.txt",
+      "tokens": 9062,
+      "characters": 30114,
+      "words": 6732
+    },
+    {
+      "filename": "Muon_kiep_nhan_sinh_4.txt",
+      "path": ".\\data\\doc\\Muon_kiep_nhan_sinh_4.txt",
+      "tokens": 11746,
+      "characters": 38546,
+      "words": 8732
+    },
+    {
+      "filename": "Muon_kiep_nhan_sinh_5.txt",
+      "path": ".\\data\\doc\\Muon_kiep_nhan_sinh_5.txt",
+      "tokens": 22629,
+      "characters": 72891,
+      "words": 16437
+    },
+    {
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-12-73.txt",
+      "path": ".\\data\\doc\\_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-12-73.txt",
+      "tokens": 38918,
+      "characters": 118712,
+      "words": 25076
+    },
+    {
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-130-187.txt",
+      "path": ".\\data\\doc\\_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-130-187.txt",
+      "tokens": 34661,
+      "characters": 104195,
+      "words": 21769
+    },
+    {
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-188-321.txt",
+      "path": ".\\data\\doc\\_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-188-321.txt",
+      "tokens": 56037,
+      "characters": 167795,
+      "words": 34040
+    },
+    {
+      "filename": "_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-74-129.txt",
+      "path": ".\\data\\doc\\_giai-quyet-van-de-va-ra-quyet-dinh-tap-1-74-129.txt",
+      "tokens": 32716,
+      "characters": 98470,
+      "words": 19818
+    },
+    {
+      "filename": "_gulliver-du-ky-151-199.txt",
+      "path": ".\\data\\doc\\_gulliver-du-ky-151-199.txt",
+      "tokens": 30502,
+      "characters": 98955,
+      "words": 21900
+    },
+    {
+      "filename": "_gulliver-du-ky-200-251.txt",
+      "path": ".\\data\\doc\\_gulliver-du-ky-200-251.txt",
+      "tokens": 30892,
+      "characters": 101007,
+      "words": 22555
+    },
+    {
+      "filename": "_gulliver-du-ky-4-53.txt",
+      "path": ".\\data\\doc\\_gulliver-du-ky-4-53.txt",
+      "tokens": 31992,
+      "characters": 100270,
+      "words": 22158
+    },
+    {
+      "filename": "_gulliver-du-ky-54-94.txt",
+      "path": ".\\data\\doc\\_gulliver-du-ky-54-94.txt",
+      "tokens": 27804,
+      "characters": 85255,
+      "words": 19101
+    },
+    {
+      "filename": "_gulliver-du-ky-95-150.txt",
+      "path": ".\\data\\doc\\_gulliver-du-ky-95-150.txt",
+      "tokens": 35376,
+      "characters": 113855,
+      "words": 25305
+    },
+    {
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-11-68.txt",
+      "path": ".\\data\\doc\\_su-that-bi-hai-ve-the-gioi-kinh-doanh-11-68.txt",
+      "tokens": 31040,
+      "characters": 101909,
+      "words": 22887
+    },
+    {
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-133-190.txt",
+      "path": ".\\data\\doc\\_su-that-bi-hai-ve-the-gioi-kinh-doanh-133-190.txt",
+      "tokens": 33290,
+      "characters": 110709,
+      "words": 24663
+    },
+    {
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-191-255.txt",
+      "path": ".\\data\\doc\\_su-that-bi-hai-ve-the-gioi-kinh-doanh-191-255.txt",
+      "tokens": 36327,
+      "characters": 119450,
+      "words": 26632
+    },
+    {
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-256-294.txt",
+      "path": ".\\data\\doc\\_su-that-bi-hai-ve-the-gioi-kinh-doanh-256-294.txt",
+      "tokens": 19475,
+      "characters": 64419,
+      "words": 14493
+    },
+    {
+      "filename": "_su-that-bi-hai-ve-the-gioi-kinh-doanh-69-132.txt",
+      "path": ".\\data\\doc\\_su-that-bi-hai-ve-the-gioi-kinh-doanh-69-132.txt",
+      "tokens": 35315,
+      "characters": 117571,
+      "words": 26096
+    },
+    {
+      "filename": "ac-quy-nam-kinh-138-199.txt",
+      "path": ".\\data\\doc\\ac-quy-nam-kinh-138-199.txt",
+      "tokens": 40934,
+      "characters": 125993,
+      "words": 28338
+    },
+    {
+      "filename": "ac-quy-nam-kinh-15-76.txt",
+      "path": ".\\data\\doc\\ac-quy-nam-kinh-15-76.txt",
+      "tokens": 41789,
+      "characters": 131504,
+      "words": 29629
+    },
+    {
+      "filename": "ac-quy-nam-kinh-200-265.txt",
+      "path": ".\\data\\doc\\ac-quy-nam-kinh-200-265.txt",
+      "tokens": 41939,
+      "characters": 129077,
+      "words": 28962
+    },
+    {
+      "filename": "ac-quy-nam-kinh-266-328.txt",
+      "path": ".\\data\\doc\\ac-quy-nam-kinh-266-328.txt",
+      "tokens": 43980,
+      "characters": 136828,
+      "words": 30734
+    },
+    {
+      "filename": "ac-quy-nam-kinh-77-137.txt",
+      "path": ".\\data\\doc\\ac-quy-nam-kinh-77-137.txt",
+      "tokens": 40825,
+      "characters": 128552,
+      "words": 28940
+    },
+    {
+      "filename": "an-may-di-vang-105-151.txt",
+      "path": ".\\data\\doc\\an-may-di-vang-105-151.txt",
+      "tokens": 29535,
+      "characters": 88119,
+      "words": 20121
+    },
+    {
+      "filename": "an-may-di-vang-152-220.txt",
+      "path": ".\\data\\doc\\an-may-di-vang-152-220.txt",
+      "tokens": 43831,
+      "characters": 131628,
+      "words": 29984
+    },
+    {
+      "filename": "an-may-di-vang-221-267.txt",
+      "path": ".\\data\\doc\\an-may-di-vang-221-267.txt",
+      "tokens": 30195,
+      "characters": 92680,
+      "words": 21286
+    },
+    {
+      "filename": "an-may-di-vang-4-49.txt",
+      "path": ".\\data\\doc\\an-may-di-vang-4-49.txt",
+      "tokens": 28380,
+      "characters": 82794,
+      "words": 18910
+    },
+    {
+      "filename": "an-may-di-vang-50-104.txt",
+      "path": ".\\data\\doc\\an-may-di-vang-50-104.txt",
+      "tokens": 33526,
+      "characters": 97901,
+      "words": 22200
+    },
+    {
+      "filename": "anh-chang-hobbit-11-66.txt",
+      "path": ".\\data\\doc\\anh-chang-hobbit-11-66.txt",
+      "tokens": 33374,
+      "characters": 101148,
+      "words": 22931
+    },
+    {
+      "filename": "anh-chang-hobbit-145-190.txt",
+      "path": ".\\data\\doc\\anh-chang-hobbit-145-190.txt",
+      "tokens": 29865,
+      "characters": 91847,
+      "words": 20831
+    },
+    {
+      "filename": "anh-chang-hobbit-191-242.txt",
+      "path": ".\\data\\doc\\anh-chang-hobbit-191-242.txt",
+      "tokens": 35277,
+      "characters": 107349,
+      "words": 24275
+    },
+    {
+      "filename": "anh-chang-hobbit-243-300.txt",
+      "path": ".\\data\\doc\\anh-chang-hobbit-243-300.txt",
+      "tokens": 35158,
+      "characters": 107968,
+      "words": 24292
+    },
+    {
+      "filename": "anh-chang-hobbit-67-144.txt",
+      "path": ".\\data\\doc\\anh-chang-hobbit-67-144.txt",
+      "tokens": 52061,
+      "characters": 157357,
+      "words": 35577
+    },
+    {
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-125-184.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-chai-nha-xanh-125-184.txt",
+      "tokens": 34949,
+      "characters": 108017,
+      "words": 23629
+    },
+    {
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-185-244.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-chai-nha-xanh-185-244.txt",
+      "tokens": 36053,
+      "characters": 111739,
+      "words": 24466
+    },
+    {
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-245-314.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-chai-nha-xanh-245-314.txt",
+      "tokens": 43156,
+      "characters": 135404,
+      "words": 29820
+    },
+    {
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-5-66.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-chai-nha-xanh-5-66.txt",
+      "tokens": 36234,
+      "characters": 111096,
+      "words": 24634
+    },
+    {
+      "filename": "anne-toc-do-duoi-chai-nha-xanh-67-124.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-chai-nha-xanh-67-124.txt",
+      "tokens": 34012,
+      "characters": 104998,
+      "words": 23201
+    },
+    {
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-103-205.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-mai-nha-bach-duong-103-205.txt",
+      "tokens": 57687,
+      "characters": 179622,
+      "words": 39890
+    },
+    {
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-206-312.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-mai-nha-bach-duong-206-312.txt",
+      "tokens": 58864,
+      "characters": 184490,
+      "words": 40675
+    },
+    {
+      "filename": "anne-toc-do-duoi-mai-nha-bach-duong-7-102.txt",
+      "path": ".\\data\\doc\\anne-toc-do-duoi-mai-nha-bach-duong-7-102.txt",
+      "tokens": 57673,
+      "characters": 180213,
+      "words": 40184
+    },
+    {
+      "filename": "ba-chang-ngoc-115-199.txt",
+      "path": ".\\data\\doc\\ba-chang-ngoc-115-199.txt",
+      "tokens": 36228,
+      "characters": 107599,
+      "words": 24090
+    },
+    {
+      "filename": "ba-chang-ngoc-200-308.txt",
+      "path": ".\\data\\doc\\ba-chang-ngoc-200-308.txt",
+      "tokens": 46600,
+      "characters": 140163,
+      "words": 31386
+    },
+    {
+      "filename": "ba-chang-ngoc-7-114.txt",
+      "path": ".\\data\\doc\\ba-chang-ngoc-7-114.txt",
+      "tokens": 48995,
+      "characters": 146317,
+      "words": 32929
+    },
+    {
+      "filename": "baby-thuong-hai-107-205.txt",
+      "path": ".\\data\\doc\\baby-thuong-hai-107-205.txt",
+      "tokens": 47345,
+      "characters": 145427,
+      "words": 32289
+    },
+    {
+      "filename": "baby-thuong-hai-206-301.txt",
+      "path": ".\\data\\doc\\baby-thuong-hai-206-301.txt",
+      "tokens": 44543,
+      "characters": 136955,
+      "words": 30301
+    },
+    {
+      "filename": "baby-thuong-hai-5-106.txt",
+      "path": ".\\data\\doc\\baby-thuong-hai-5-106.txt",
+      "tokens": 46673,
+      "characters": 143495,
+      "words": 31632
+    },
+    {
+      "filename": "bac-si-zhivago-190-311.txt",
+      "path": ".\\data\\doc\\bac-si-zhivago-190-311.txt",
+      "tokens": 118884,
+      "characters": 364877,
+      "words": 82153
+    },
+    {
+      "filename": "bac-si-zhivago-312-387.txt",
+      "path": ".\\data\\doc\\bac-si-zhivago-312-387.txt",
+      "tokens": 73512,
+      "characters": 227730,
+      "words": 51224
+    },
+    {
+      "filename": "bac-si-zhivago-6-97.txt",
+      "path": ".\\data\\doc\\bac-si-zhivago-6-97.txt",
+      "tokens": 89895,
+      "characters": 275648,
+      "words": 61854
+    },
+    {
+      "filename": "bac-si-zhivago-98-189.txt",
+      "path": ".\\data\\doc\\bac-si-zhivago-98-189.txt",
+      "tokens": 90354,
+      "characters": 274870,
+      "words": 62050
+    },
+    {
+      "filename": "bi-mat-dem-he-104-214.txt",
+      "path": ".\\data\\doc\\bi-mat-dem-he-104-214.txt",
+      "tokens": 66485,
+      "characters": 204391,
+      "words": 45144
+    },
+    {
+      "filename": "bi-mat-dem-he-215-302.txt",
+      "path": ".\\data\\doc\\bi-mat-dem-he-215-302.txt",
+      "tokens": 53347,
+      "characters": 163338,
+      "words": 35971
+    },
+    {
+      "filename": "bi-mat-dem-he-7-103.txt",
+      "path": ".\\data\\doc\\bi-mat-dem-he-7-103.txt",
+      "tokens": 56664,
+      "characters": 176536,
+      "words": 38882
+    },
+    {
+      "filename": "bi-mat-ngoi-mo-co-129-241.txt",
+      "path": ".\\data\\doc\\bi-mat-ngoi-mo-co-129-241.txt",
+      "tokens": 75293,
+      "characters": 229358,
+      "words": 50101
+    },
+    {
+      "filename": "bi-mat-ngoi-mo-co-5-128.txt",
+      "path": ".\\data\\doc\\bi-mat-ngoi-mo-co-5-128.txt",
+      "tokens": 82904,
+      "characters": 253522,
+      "words": 55831
+    },
+    {
+      "filename": "bieu-tuong-that-truyen-109-210.txt",
+      "path": ".\\data\\doc\\bieu-tuong-that-truyen-109-210.txt",
+      "tokens": 52899,
+      "characters": 165864,
+      "words": 36857
+    },
+    {
+      "filename": "bieu-tuong-that-truyen-11-108.txt",
+      "path": ".\\data\\doc\\bieu-tuong-that-truyen-11-108.txt",
+      "tokens": 53738,
+      "characters": 169926,
+      "words": 37397
+    },
+    {
+      "filename": "bieu-tuong-that-truyen-211-321.txt",
+      "path": ".\\data\\doc\\bieu-tuong-that-truyen-211-321.txt",
+      "tokens": 56259,
+      "characters": 175093,
+      "words": 38379
+    },
+    {
+      "filename": "bieu-tuong-that-truyen-322-459.txt",
+      "path": ".\\data\\doc\\bieu-tuong-that-truyen-322-459.txt",
+      "tokens": 69968,
+      "characters": 218322,
+      "words": 47586
+    },
+    {
+      "filename": "bieu-tuong-that-truyen-460-643.txt",
+      "path": ".\\data\\doc\\bieu-tuong-that-truyen-460-643.txt",
+      "tokens": 91548,
+      "characters": 285058,
+      "words": 62069
+    },
+    {
+      "filename": "bo-gia-103-200.txt",
+      "path": ".\\data\\doc\\bo-gia-103-200.txt",
+      "tokens": 69418,
+      "characters": 206772,
+      "words": 46507
+    },
+    {
+      "filename": "bo-gia-201-314.txt",
+      "path": ".\\data\\doc\\bo-gia-201-314.txt",
+      "tokens": 82647,
+      "characters": 249049,
+      "words": 55914
+    },
+    {
+      "filename": "bo-gia-315-416.txt",
+      "path": ".\\data\\doc\\bo-gia-315-416.txt",
+      "tokens": 69196,
+      "characters": 212347,
+      "words": 47616
+    },
+    {
+      "filename": "bo-gia-7-102.txt",
+      "path": ".\\data\\doc\\bo-gia-7-102.txt",
+      "tokens": 68131,
+      "characters": 201920,
+      "words": 45523
+    },
+    {
+      "filename": "bong-hinh-cua-gio-1-153.txt",
+      "path": ".\\data\\doc\\bong-hinh-cua-gio-1-153.txt",
+      "tokens": 94685,
+      "characters": 286563,
+      "words": 62532
+    },
+    {
+      "filename": "bong-hinh-cua-gio-154-306.txt",
+      "path": ".\\data\\doc\\bong-hinh-cua-gio-154-306.txt",
+      "tokens": 94016,
+      "characters": 285396,
+      "words": 61825
+    },
+    {
+      "filename": "bong-hinh-cua-gio-307-499.txt",
+      "path": ".\\data\\doc\\bong-hinh-cua-gio-307-499.txt",
+      "tokens": 119403,
+      "characters": 358876,
+      "words": 77975
+    },
+    {
+      "filename": "cao-diem-cuoi-cung-155-349.txt",
+      "path": ".\\data\\doc\\cao-diem-cuoi-cung-155-349.txt",
+      "tokens": 100262,
+      "characters": 310984,
+      "words": 69922
+    },
+    {
+      "filename": "cao-diem-cuoi-cung-3-154.txt",
+      "path": ".\\data\\doc\\cao-diem-cuoi-cung-3-154.txt",
+      "tokens": 77668,
+      "characters": 241616,
+      "words": 53951
+    },
+    {
+      "filename": "cha-con-giao-hoang-110-289.txt",
+      "path": ".\\data\\doc\\cha-con-giao-hoang-110-289.txt",
+      "tokens": 89834,
+      "characters": 284068,
+      "words": 61563
+    },
+    {
+      "filename": "cha-con-giao-hoang-290-522.txt",
+      "path": ".\\data\\doc\\cha-con-giao-hoang-290-522.txt",
+      "tokens": 115355,
+      "characters": 357804,
+      "words": 77479
+    },
+    {
+      "filename": "cha-con-giao-hoang-9-109.txt",
+      "path": ".\\data\\doc\\cha-con-giao-hoang-9-109.txt",
+      "tokens": 49823,
+      "characters": 158382,
+      "words": 34633
+    },
+    {
+      "filename": "chua-ruoi-152-250.txt",
+      "path": ".\\data\\doc\\chua-ruoi-152-250.txt",
+      "tokens": 44139,
+      "characters": 127042,
+      "words": 27928
+    },
+    {
+      "filename": "chua-ruoi-7-151.txt",
+      "path": ".\\data\\doc\\chua-ruoi-7-151.txt",
+      "tokens": 65830,
+      "characters": 191278,
+      "words": 42059
+    },
+    {
+      "filename": "chuyen-thoi-bao-cap-6-132.txt",
+      "path": ".\\data\\doc\\chuyen-thoi-bao-cap-6-132.txt",
+      "tokens": 83462,
+      "characters": 253032,
+      "words": 55113
+    },
+    {
+      "filename": "co-gai-dan-mach-169-286.txt",
+      "path": ".\\data\\doc\\co-gai-dan-mach-169-286.txt",
+      "tokens": 71774,
+      "characters": 221920,
+      "words": 49187
+    },
+    {
+      "filename": "co-gai-dan-mach-7-168.txt",
+      "path": ".\\data\\doc\\co-gai-dan-mach-7-168.txt",
+      "tokens": 101022,
+      "characters": 312275,
+      "words": 69480
+    },
+    {
+      "filename": "con-duong-vay-mau-190-281.txt",
+      "path": ".\\data\\doc\\con-duong-vay-mau-190-281.txt",
+      "tokens": 35553,
+      "characters": 96958,
+      "words": 20710
+    },
+    {
+      "filename": "con-duong-vay-mau-282-389.txt",
+      "path": ".\\data\\doc\\con-duong-vay-mau-282-389.txt",
+      "tokens": 42237,
+      "characters": 114870,
+      "words": 24485
+    },
+    {
+      "filename": "con-duong-vay-mau-390-501.txt",
+      "path": ".\\data\\doc\\con-duong-vay-mau-390-501.txt",
+      "tokens": 45786,
+      "characters": 124684,
+      "words": 26490
+    },
+    {
+      "filename": "con-duong-vay-mau-5-91.txt",
+      "path": ".\\data\\doc\\con-duong-vay-mau-5-91.txt",
+      "tokens": 33335,
+      "characters": 90896,
+      "words": 19419
+    },
+    {
+      "filename": "con-duong-vay-mau-92-189.txt",
+      "path": ".\\data\\doc\\con-duong-vay-mau-92-189.txt",
+      "tokens": 37458,
+      "characters": 100559,
+      "words": 21334
+    },
+    {
+      "filename": "cong-tuoc-va-em-148-287.txt",
+      "path": ".\\data\\doc\\cong-tuoc-va-em-148-287.txt",
+      "tokens": 70010,
+      "characters": 211953,
+      "words": 46675
+    },
+    {
+      "filename": "cong-tuoc-va-em-9-147.txt",
+      "path": ".\\data\\doc\\cong-tuoc-va-em-9-147.txt",
+      "tokens": 70178,
+      "characters": 215494,
+      "words": 47063
+    },
+    {
+      "filename": "cuoc-chien-khuy-cuc-11-139.txt",
+      "path": ".\\data\\doc\\cuoc-chien-khuy-cuc-11-139.txt",
+      "tokens": 69911,
+      "characters": 207019,
+      "words": 45982
+    },
+    {
+      "filename": "cuoc-chien-khuy-cuc-140-237.txt",
+      "path": ".\\data\\doc\\cuoc-chien-khuy-cuc-140-237.txt",
+      "tokens": 52073,
+      "characters": 153957,
+      "words": 33944
+    },
+    {
+      "filename": "cuoc-doi-galilei-11-151.txt",
+      "path": ".\\data\\doc\\cuoc-doi-galilei-11-151.txt",
+      "tokens": 65608,
+      "characters": 200528,
+      "words": 43947
+    },
+    {
+      "filename": "cuu-tinh-xu-cat-12-144.txt",
+      "path": ".\\data\\doc\\cuu-tinh-xu-cat-12-144.txt",
+      "tokens": 61332,
+      "characters": 193109,
+      "words": 41817
+    },
+    {
+      "filename": "cuu-tinh-xu-cat-145-344.txt",
+      "path": ".\\data\\doc\\cuu-tinh-xu-cat-145-344.txt",
+      "tokens": 85047,
+      "characters": 261536,
+      "words": 56634
+    },
+    {
+      "filename": "da-khuc-nam-cau-chuyen-ve-am-nhac-va-dem-buong-7-167.txt",
+      "path": ".\\data\\doc\\da-khuc-nam-cau-chuyen-ve-am-nhac-va-dem-buong-7-167.txt",
+      "tokens": 100946,
+      "characters": 315293,
+      "words": 70097
+    },
+    {
+      "filename": "danh-vong-va-toi-ac-152-312.txt",
+      "path": ".\\data\\doc\\danh-vong-va-toi-ac-152-312.txt",
+      "tokens": 81119,
+      "characters": 256649,
+      "words": 58625
+    },
+    {
+      "filename": "danh-vong-va-toi-ac-313-366.txt",
+      "path": ".\\data\\doc\\danh-vong-va-toi-ac-313-366.txt",
+      "tokens": 30607,
+      "characters": 96889,
+      "words": 21998
+    },
+    {
+      "filename": "danh-vong-va-toi-ac-4-151.txt",
+      "path": ".\\data\\doc\\danh-vong-va-toi-ac-4-151.txt",
+      "tokens": 79912,
+      "characters": 253280,
+      "words": 57516
+    },
+    {
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-10-102.txt",
+      "path": ".\\data\\doc\\dau-truong-sinh-tu-tap-2-bat-lua-10-102.txt",
+      "tokens": 56676,
+      "characters": 176573,
+      "words": 39227
+    },
+    {
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-103-202.txt",
+      "path": ".\\data\\doc\\dau-truong-sinh-tu-tap-2-bat-lua-103-202.txt",
+      "tokens": 61348,
+      "characters": 189889,
+      "words": 41990
+    },
+    {
+      "filename": "dau-truong-sinh-tu-tap-2-bat-lua-203-309.txt",
+      "path": ".\\data\\doc\\dau-truong-sinh-tu-tap-2-bat-lua-203-309.txt",
+      "tokens": 65104,
+      "characters": 199102,
+      "words": 43651
+    },
+    {
+      "filename": "dem-hoi-long-tri-8-134.txt",
+      "path": ".\\data\\doc\\dem-hoi-long-tri-8-134.txt",
+      "tokens": 61014,
+      "characters": 181331,
+      "words": 40578
+    },
+    {
+      "filename": "di-tim-le-song-11-111.txt",
+      "path": ".\\data\\doc\\di-tim-le-song-11-111.txt",
+      "tokens": 80288,
+      "characters": 268485,
+      "words": 60349
+    },
+    {
+      "filename": "dieu-y-nghia-nhat-trong-tung-khoanh-khac-cuoc-doi-6-165.txt",
+      "path": ".\\data\\doc\\dieu-y-nghia-nhat-trong-tung-khoanh-khac-cuoc-doi-6-165.txt",
+      "tokens": 80931,
+      "characters": 261574,
+      "words": 57356
+    },
+    {
+      "filename": "do-kheo-giang-hay-nang-cao-tri-tue-14-165.txt",
+      "path": ".\\data\\doc\\do-kheo-giang-hay-nang-cao-tri-tue-14-165.txt",
+      "tokens": 60177,
+      "characters": 180067,
+      "words": 40252
+    },
+    {
+      "filename": "dong-rac-cu-tron-bo-1117-1307.txt",
+      "path": ".\\data\\doc\\dong-rac-cu-tron-bo-1117-1307.txt",
+      "tokens": 77890,
+      "characters": 220531,
+      "words": 49337
+    },
+    {
+      "filename": "dong-rac-cu-tron-bo-485-660.txt",
+      "path": ".\\data\\doc\\dong-rac-cu-tron-bo-485-660.txt",
+      "tokens": 68139,
+      "characters": 190725,
+      "words": 43791
+    },
+    {
+      "filename": "dong-rac-cu-tron-bo-663-922.txt",
+      "path": ".\\data\\doc\\dong-rac-cu-tron-bo-663-922.txt",
+      "tokens": 122063,
+      "characters": 345379,
+      "words": 77403
+    },
+    {
+      "filename": "dong-rac-cu-tron-bo-8-276.txt",
+      "path": ".\\data\\doc\\dong-rac-cu-tron-bo-8-276.txt",
+      "tokens": 127930,
+      "characters": 357275,
+      "words": 80304
+    },
+    {
+      "filename": "dong-rac-cu-tron-bo-925-1116.txt",
+      "path": ".\\data\\doc\\dong-rac-cu-tron-bo-925-1116.txt",
+      "tokens": 82746,
+      "characters": 235993,
+      "words": 53048
+    },
+    {
+      "filename": "dua-tre-thu-44-6-93.txt",
+      "path": ".\\data\\doc\\dua-tre-thu-44-6-93.txt",
+      "tokens": 62685,
+      "characters": 187427,
+      "words": 42373
+    },
+    {
+      "filename": "dua-tre-thu-44-94-308.txt",
+      "path": ".\\data\\doc\\dua-tre-thu-44-94-308.txt",
+      "tokens": 152943,
+      "characters": 457084,
+      "words": 103785
+    },
+    {
+      "filename": "duong-chan-troi-da-mat-133-190.txt",
+      "path": ".\\data\\doc\\duong-chan-troi-da-mat-133-190.txt",
+      "tokens": 35542,
+      "characters": 113043,
+      "words": 25389
+    },
+    {
+      "filename": "duong-chan-troi-da-mat-4-132.txt",
+      "path": ".\\data\\doc\\duong-chan-troi-da-mat-4-132.txt",
+      "tokens": 82236,
+      "characters": 264826,
+      "words": 59301
+    },
+    {
+      "filename": "dut-tinh-6-128.txt",
+      "path": ".\\data\\doc\\dut-tinh-6-128.txt",
+      "tokens": 56576,
+      "characters": 167832,
+      "words": 38126
+    },
+    {
+      "filename": "emily-tren-dai-cau-vong-199-383.txt",
+      "path": ".\\data\\doc\\emily-tren-dai-cau-vong-199-383.txt",
+      "tokens": 108319,
+      "characters": 339877,
+      "words": 75414
+    },
+    {
+      "filename": "emily-tren-dai-cau-vong-6-198.txt",
+      "path": ".\\data\\doc\\emily-tren-dai-cau-vong-6-198.txt",
+      "tokens": 116075,
+      "characters": 364704,
+      "words": 81175
+    },
+    {
+      "filename": "giet-con-chim-nhai-160-289.txt",
+      "path": ".\\data\\doc\\giet-con-chim-nhai-160-289.txt",
+      "tokens": 84432,
+      "characters": 262908,
+      "words": 58356
+    },
+    {
+      "filename": "giet-con-chim-nhai-5-159.txt",
+      "path": ".\\data\\doc\\giet-con-chim-nhai-5-159.txt",
+      "tokens": 100226,
+      "characters": 308301,
+      "words": 68406
+    },
+    {
+      "filename": "hai-so-phan-10-123.txt",
+      "path": ".\\data\\doc\\hai-so-phan-10-123.txt",
+      "tokens": 69472,
+      "characters": 216744,
+      "words": 48703
+    },
+    {
+      "filename": "hai-so-phan-124-213.txt",
+      "path": ".\\data\\doc\\hai-so-phan-124-213.txt",
+      "tokens": 49355,
+      "characters": 158870,
+      "words": 35143
+    },
+    {
+      "filename": "hai-so-phan-214-379.txt",
+      "path": ".\\data\\doc\\hai-so-phan-214-379.txt",
+      "tokens": 90408,
+      "characters": 297294,
+      "words": 65429
+    },
+    {
+      "filename": "hai-so-phan-380-557.txt",
+      "path": ".\\data\\doc\\hai-so-phan-380-557.txt",
+      "tokens": 93035,
+      "characters": 304706,
+      "words": 67161
+    },
+    {
+      "filename": "ndung-noi-mot-ai-103-251.txt",
+      "path": ".\\data\\doc\\ndung-noi-mot-ai-103-251.txt",
+      "tokens": 66808,
+      "characters": 199551,
+      "words": 42725
+    },
+    {
+      "filename": "ndung-noi-mot-ai-15-102.txt",
+      "path": ".\\data\\doc\\ndung-noi-mot-ai-15-102.txt",
+      "tokens": 43534,
+      "characters": 131811,
+      "words": 28289
+    },
+    {
+      "filename": "nguon-goc-cac-loai-100-145.txt",
+      "path": ".\\data\\doc\\nguon-goc-cac-loai-100-145.txt",
+      "tokens": 33114,
+      "characters": 102161,
+      "words": 22265
+    },
+    {
+      "filename": "nguon-goc-cac-loai-146-181.txt",
+      "path": ".\\data\\doc\\nguon-goc-cac-loai-146-181.txt",
+      "tokens": 25597,
+      "characters": 79352,
+      "words": 17227
+    },
+    {
+      "filename": "nguon-goc-cac-loai-182-249.txt",
+      "path": ".\\data\\doc\\nguon-goc-cac-loai-182-249.txt",
+      "tokens": 23386,
+      "characters": 73113,
+      "words": 15835
+    },
+    {
+      "filename": "nguon-goc-cac-loai-33-66.txt",
+      "path": ".\\data\\doc\\nguon-goc-cac-loai-33-66.txt",
+      "tokens": 25065,
+      "characters": 76897,
+      "words": 16406
+    },
+    {
+      "filename": "nguon-goc-cac-loai-67-99.txt",
+      "path": ".\\data\\doc\\nguon-goc-cac-loai-67-99.txt",
+      "tokens": 22950,
+      "characters": 70724,
+      "words": 15228
+    },
+    {
+      "filename": "soi-va-gia-vi-tap-2-117-157.txt",
+      "path": ".\\data\\doc\\soi-va-gia-vi-tap-2-117-157.txt",
+      "tokens": 18038,
+      "characters": 58404,
+      "words": 12757
+    },
+    {
+      "filename": "soi-va-gia-vi-tap-2-158-221.txt",
+      "path": ".\\data\\doc\\soi-va-gia-vi-tap-2-158-221.txt",
+      "tokens": 26958,
+      "characters": 86885,
+      "words": 19151
+    },
+    {
+      "filename": "soi-va-gia-vi-tap-2-222-276.txt",
+      "path": ".\\data\\doc\\soi-va-gia-vi-tap-2-222-276.txt",
+      "tokens": 23141,
+      "characters": 73747,
+      "words": 16245
+    },
+    {
+      "filename": "soi-va-gia-vi-tap-2-4-58.txt",
+      "path": ".\\data\\doc\\soi-va-gia-vi-tap-2-4-58.txt",
+      "tokens": 22846,
+      "characters": 74350,
+      "words": 16386
+    },
+    {
+      "filename": "soi-va-gia-vi-tap-2-59-116.txt",
+      "path": ".\\data\\doc\\soi-va-gia-vi-tap-2-59-116.txt",
+      "tokens": 24210,
+      "characters": 76406,
+      "words": 16860
+    },
+    {
+      "filename": "truong_ca_achilles_1.txt",
+      "path": ".\\data\\doc\\truong_ca_achilles_1.txt",
+      "tokens": 14129,
+      "characters": 42508,
+      "words": 9389
+    },
+    {
+      "filename": "truong_ca_achilles_2.txt",
+      "path": ".\\data\\doc\\truong_ca_achilles_2.txt",
+      "tokens": 21000,
+      "characters": 62659,
+      "words": 13803
+    },
+    {
+      "filename": "truong_ca_achilles_3.txt",
+      "path": ".\\data\\doc\\truong_ca_achilles_3.txt",
+      "tokens": 37563,
+      "characters": 111751,
+      "words": 24353
+    },
+    {
+      "filename": "truong_ca_achilles_4.txt",
+      "path": ".\\data\\doc\\truong_ca_achilles_4.txt",
+      "tokens": 27445,
+      "characters": 80794,
+      "words": 17584
+    },
+    {
+      "filename": "truong_ca_achilles_5.txt",
+      "path": ".\\data\\doc\\truong_ca_achilles_5.txt",
+      "tokens": 43745,
+      "characters": 130401,
+      "words": 28425
+    }
+  ]
+}

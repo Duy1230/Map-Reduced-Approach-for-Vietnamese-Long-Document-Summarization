@@ -1,0 +1,238 @@
+{
+  "summary_statistics": {
+    "semantic_similarity": {
+      "mean": 0.8784403615984423,
+      "std": 0.044364720816992144,
+      "min": 0.7304302453994751,
+      "max": 0.9543253183364868
+    },
+    "rouge_scores": {
+      "rouge1_f1": 0.6578653728113485,
+      "rouge2_f1": 0.46386893646311766,
+      "rougeL_f1": 0.42656397349923575
+    },
+    "bert_scores": {
+      "bert_precision": 0.0,
+      "bert_recall": 0.0,
+      "bert_f1": 0.0
+    },
+    "llm_scores": {
+      "llm_correctness_mean": 0.5896551724137932,
+      "llm_correctness_std": 0.14935453674281182,
+      "llm_correctness_min": 0.3,
+      "llm_correctness_max": 0.8,
+      "llm_coherence_mean": 0.6586206896551723,
+      "llm_coherence_std": 0.13265782111497484,
+      "llm_coherence_min": 0.3,
+      "llm_coherence_max": 0.8,
+      "llm_successful_cases": 29,
+      "llm_failed_cases": 0,
+      "llm_total_cases_processed": 29
+    }
+  },
+  "detailed_results": [
+    {
+      "semantic_similarity": 0.8665388822555542,
+      "rouge1_f": 0.7483629560336764,
+      "rouge2_f": 0.472352389878163,
+      "rougeL_f": 0.3947614593077643,
+      "filename": "5619.txt"
+    },
+    {
+      "semantic_similarity": 0.8800162076950073,
+      "rouge1_f": 0.3880070546737213,
+      "rouge2_f": 0.2938053097345133,
+      "rougeL_f": 0.2927689594356261,
+      "filename": "5665.txt"
+    },
+    {
+      "semantic_similarity": 0.8650144338607788,
+      "rouge1_f": 0.6599450045829514,
+      "rouge2_f": 0.38200183654729114,
+      "rougeL_f": 0.3318056828597617,
+      "filename": "5701.txt"
+    },
+    {
+      "semantic_similarity": 0.8078672885894775,
+      "rouge1_f": 0.31388329979879276,
+      "rouge2_f": 0.2626262626262626,
+      "rougeL_f": 0.261569416498994,
+      "filename": "5804.txt"
+    },
+    {
+      "semantic_similarity": 0.8964614272117615,
+      "rouge1_f": 0.6491739552964043,
+      "rouge2_f": 0.45180136319376824,
+      "rougeL_f": 0.3634596695821185,
+      "filename": "5864.txt"
+    },
+    {
+      "semantic_similarity": 0.8999911546707153,
+      "rouge1_f": 0.6904564315352699,
+      "rouge2_f": 0.543640897755611,
+      "rougeL_f": 0.5145228215767634,
+      "filename": "6243.txt"
+    },
+    {
+      "semantic_similarity": 0.9471904039382935,
+      "rouge1_f": 0.7740384615384616,
+      "rouge2_f": 0.5473515248796148,
+      "rougeL_f": 0.4759615384615385,
+      "filename": "6407.txt"
+    },
+    {
+      "semantic_similarity": 0.9016962051391602,
+      "rouge1_f": 0.7006369426751593,
+      "rouge2_f": 0.46170212765957447,
+      "rougeL_f": 0.4628450106157112,
+      "filename": "6817.txt"
+    },
+    {
+      "semantic_similarity": 0.9003957509994507,
+      "rouge1_f": 0.7394636015325671,
+      "rouge2_f": 0.5681381957773513,
+      "rougeL_f": 0.450191570881226,
+      "filename": "7039.txt"
+    },
+    {
+      "semantic_similarity": 0.8494054079055786,
+      "rouge1_f": 0.7131782945736433,
+      "rouge2_f": 0.4363636363636364,
+      "rougeL_f": 0.4702842377260982,
+      "filename": "7141.txt"
+    },
+    {
+      "semantic_similarity": 0.8727205991744995,
+      "rouge1_f": 0.6353322528363047,
+      "rouge2_f": 0.36747967479674803,
+      "rougeL_f": 0.340356564019449,
+      "filename": "7341.txt"
+    },
+    {
+      "semantic_similarity": 0.9136396050453186,
+      "rouge1_f": 0.6714158504007123,
+      "rouge2_f": 0.47814451382694023,
+      "rougeL_f": 0.42920747996438113,
+      "filename": "7499.txt"
+    },
+    {
+      "semantic_similarity": 0.9371724724769592,
+      "rouge1_f": 0.7068965517241378,
+      "rouge2_f": 0.656429942418426,
+      "rougeL_f": 0.5727969348659003,
+      "filename": "7827.txt"
+    },
+    {
+      "semantic_similarity": 0.8992655277252197,
+      "rouge1_f": 0.8297029702970297,
+      "rouge2_f": 0.6369047619047619,
+      "rougeL_f": 0.5405940594059406,
+      "filename": "7829.txt"
+    },
+    {
+      "semantic_similarity": 0.8736992478370667,
+      "rouge1_f": 0.7734976887519261,
+      "rouge2_f": 0.5069551777434312,
+      "rougeL_f": 0.5115562403697996,
+      "filename": "804.txt"
+    },
+    {
+      "semantic_similarity": 0.9543253183364868,
+      "rouge1_f": 0.750561797752809,
+      "rouge2_f": 0.5823927765237019,
+      "rougeL_f": 0.5573033707865168,
+      "filename": "8498.txt"
+    },
+    {
+      "semantic_similarity": 0.9223606586456299,
+      "rouge1_f": 0.6898876404494382,
+      "rouge2_f": 0.47747747747747743,
+      "rougeL_f": 0.45617977528089887,
+      "filename": "8505.txt"
+    },
+    {
+      "semantic_similarity": 0.912997841835022,
+      "rouge1_f": 0.662379421221865,
+      "rouge2_f": 0.49032258064516127,
+      "rougeL_f": 0.4340836012861736,
+      "filename": "8577.txt"
+    },
+    {
+      "semantic_similarity": 0.847318172454834,
+      "rouge1_f": 0.42125237191650855,
+      "rouge2_f": 0.37333333333333335,
+      "rougeL_f": 0.349146110056926,
+      "filename": "8616.txt"
+    },
+    {
+      "semantic_similarity": 0.8274644613265991,
+      "rouge1_f": 0.6716279069767442,
+      "rouge2_f": 0.3168685927306617,
+      "rougeL_f": 0.3404651162790698,
+      "filename": "8621.txt"
+    },
+    {
+      "semantic_similarity": 0.8303526639938354,
+      "rouge1_f": 0.6593204775022956,
+      "rouge2_f": 0.5666973321067157,
+      "rougeL_f": 0.5362718089990816,
+      "filename": "8707.txt"
+    },
+    {
+      "semantic_similarity": 0.8642904758453369,
+      "rouge1_f": 0.7596439169139466,
+      "rouge2_f": 0.4261645193260654,
+      "rougeL_f": 0.40949554896142437,
+      "filename": "8723.txt"
+    },
+    {
+      "semantic_similarity": 0.866700291633606,
+      "rouge1_f": 0.7965299684542587,
+      "rouge2_f": 0.49289099526066354,
+      "rougeL_f": 0.35331230283911674,
+      "filename": "8937.txt"
+    },
+    {
+      "semantic_similarity": 0.8861127495765686,
+      "rouge1_f": 0.8187456926257753,
+      "rouge2_f": 0.5369220151828847,
+      "rougeL_f": 0.439696760854583,
+      "filename": "9248.txt"
+    },
+    {
+      "semantic_similarity": 0.9146772623062134,
+      "rouge1_f": 0.6940000000000001,
+      "rouge2_f": 0.6112224448897796,
+      "rougeL_f": 0.534,
+      "filename": "9386.txt"
+    },
+    {
+      "semantic_similarity": 0.8641234636306763,
+      "rouge1_f": 0.5875542691751086,
+      "rouge2_f": 0.32510885341074014,
+      "rougeL_f": 0.3531114327062229,
+      "filename": "940.txt"
+    },
+    {
+      "semantic_similarity": 0.7304302453994751,
+      "rouge1_f": 0.4260355029585799,
+      "rouge2_f": 0.24673784104389088,
+      "rougeL_f": 0.2650887573964497,
+      "filename": "9415.txt"
+    },
+    {
+      "semantic_similarity": 0.8550138473510742,
+      "rouge1_f": 0.5900216919739697,
+      "rouge2_f": 0.4282608695652174,
+      "rougeL_f": 0.403470715835141,
+      "filename": "9492.txt"
+    },
+    {
+      "semantic_similarity": 0.8875284194946289,
+      "rouge1_f": 0.5565438373570522,
+      "rouge2_f": 0.5121019108280255,
+      "rougeL_f": 0.5260482846251588,
+      "filename": "9715.txt"
+    }
+  ]
+}

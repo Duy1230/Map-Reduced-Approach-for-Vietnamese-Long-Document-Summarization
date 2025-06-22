@@ -1,0 +1,17 @@
+tiktoken>=0.5.0
+pathlib
+typing 
+requests
+transformers
+rouge_score
+bert-score
+langchain
+langgraph
+langchain_text_splitters
+langchain-core
+tiktoken
+openai
+python-dotenv
+deepeval
+sentence-transformers
+scikit-learn
