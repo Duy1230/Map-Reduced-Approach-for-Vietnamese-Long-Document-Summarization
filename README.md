@@ -16,11 +16,12 @@ We built 5 different approaches to see which works best:
 
 ### 1. Get the code and data
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Duy1230/Map-Reduced-Approach-for-Vietnamese-Long-Document-Summarization.git)
 cd GD1-project
 ```
 
-Download our Vietnamese documents from [Google Drive](https://drive.google.com/your-drive-link-here) and put them in a `data_1/` folder.
+Download our Vietnamese VN-LongSum dataset from [Google Drive](https://drive.google.com/drive/folders/1sTL8Bt06jn34a-CVnEfUFNiohFSEefsL?usp=sharing) and put them in a `data_1/` folder.
+The small Law Dataset can also be downloaded from [Google Drive](https://drive.google.com/your-drive-link-here)](https://drive.google.com/drive/folders/1wtxll1ctOprRmZO5EG1eWw7lhOKMzCVb?usp=sharing)
 
 ### 2. Install Ollama (the AI runner)
 Get it from [ollama.ai](https://ollama.ai/), then:
